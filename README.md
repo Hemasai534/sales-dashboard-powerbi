@@ -35,10 +35,10 @@ It helps analyze **total revenue, order trends, profit margins, and category-wis
 - Track **profit margins and average order value**.
 
 ## 📸 Screenshots 
-
+https://github.com/Hemasai534/sales-dashboard-powerbi/blob/main/sales_dashboard.png
 
 ## 🤝 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **LinkedIn:** [ LinkedIn Profile](www.linkedin.com/in/hema-sai-bendi-b432a0292)
+- **GitHub:** [Your GitHub Profile]()
 
 ---
