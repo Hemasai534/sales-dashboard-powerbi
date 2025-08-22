@@ -38,7 +38,7 @@ It helps analyze **total revenue, order trends, profit margins, and category-wis
 https://github.com/Hemasai534/sales-dashboard-powerbi/blob/main/sales_dashboard.png
 
 ## 🤝 Connect with Me
-- **LinkedIn:** [ LinkedIn Profile](www.linkedin.com/in/hema-sai-bendi-b432a0292)
-- **GitHub:** [Your GitHub Profile]()
+- **LinkedIn:** www.linkedin.com/in/hema-sai-bendi-b432a0292
+- **GitHub:**    https://github.com/Hemasai534
 
 ---
