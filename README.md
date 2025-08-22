@@ -20,8 +20,8 @@ It helps analyze **total revenue, order trends, profit margins, and category-wis
 - **DAX formulas** (for calculated measures)
 
 ## 📂 Project Files
-- **`Sales_Dashboard.pbix`** – https://github.com/Hemasai534/sales-dashboard-powerbi/blob/main/Sales%20Metrics%20%26%20Decision%20Support%20Dashboard.pbix
-- **Dataset ** – https://github.com/Hemasai534/sales-dashboard-powerbi/blob/main/Simple_Sales_Data_PowerBI.xlsx (source)  used for visualization.
+- Sales_Dashboard.pbix`** – https://github.com/Hemasai534/sales-dashboard-powerbi/blob/main/Sales%20Metrics%20%26%20Decision%20Support%20Dashboard.pbix
+- Dataset ** – https://github.com/Hemasai534/sales-dashboard-powerbi/blob/main/Simple_Sales_Data_PowerBI.xlsx (source)  used for visualization.
 
 ## 🚀 How to Use
 1. **Download the `.pbix` file** from this repository.
@@ -38,7 +38,7 @@ It helps analyze **total revenue, order trends, profit margins, and category-wis
 https://github.com/Hemasai534/sales-dashboard-powerbi/blob/main/sales_dashboard.png
 
 ## 🤝 Connect with Me
-- **LinkedIn:** www.linkedin.com/in/hema-sai-bendi-b432a0292
-- **GitHub:**    https://github.com/Hemasai534
+- *LinkedIn:** www.linkedin.com/in/hema-sai-bendi-b432a0292
+- *GitHub:**    https://github.com/Hemasai534
 
 ---
