@@ -20,7 +20,7 @@ It helps analyze **total revenue, order trends, profit margins, and category-wis
 - **DAX formulas** (for calculated measures)
 
 ## 📂 Project Files
-- **`Sales_Dashboard.pbix`** – 
+- **`Sales_Dashboard.pbix`** – https://github.com/Hemasai534/sales-dashboard-powerbi/blob/main/Sales%20Metrics%20%26%20Decision%20Support%20Dashboard.pbix
 - **Dataset (if applicable)** – Excel/CSV source used for visualization.
 
 ## 🚀 How to Use
