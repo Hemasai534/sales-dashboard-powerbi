@@ -21,7 +21,7 @@ It helps analyze **total revenue, order trends, profit margins, and category-wis
 
 ## 📂 Project Files
 - **`Sales_Dashboard.pbix`** – https://github.com/Hemasai534/sales-dashboard-powerbi/blob/main/Sales%20Metrics%20%26%20Decision%20Support%20Dashboard.pbix
-- **Dataset (if applicable)** – Excel/CSV source used for visualization.
+- **Dataset ** – https://github.com/Hemasai534/sales-dashboard-powerbi/blob/main/Simple_Sales_Data_PowerBI.xlsx (source)  used for visualization.
 
 ## 🚀 How to Use
 1. **Download the `.pbix` file** from this repository.
@@ -34,9 +34,8 @@ It helps analyze **total revenue, order trends, profit margins, and category-wis
 - Monitor **yearly and monthly sales performance trends**.
 - Track **profit margins and average order value**.
 
-## 📸 Screenshots (Optional)
-*(Add images of your dashboard here by uploading screenshots to the repo and linking them like below)*  
-`![Dashboard Screenshot](screenshot.png)`
+## 📸 Screenshots 
+
 
 ## 🤝 Connect with Me
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
